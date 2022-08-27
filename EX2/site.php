@@ -10,7 +10,7 @@
 
 <body>
 
-    <form action="/phpw/www.php" method="POST">
+    <form action="/phpw/ResolucaoDeExercicios/EX2/www.php" method="POST">
     <label>data 1<br></label>
     
     <input type="date" name="data"><br>
