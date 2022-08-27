@@ -35,7 +35,7 @@ if ($idade[0]<$idade[1]){
 
 }else{
     $idadeve = ($idade[0])/2;
-    echo"<br> Diferença de idade: $idadeve";
+    echo"<br> Diferença de idade : $idadeve";
     $idadef = $idadeve+$ano2;
     echo"<br> Ano em que vai ter a metade da idade: $idadef";
 }
