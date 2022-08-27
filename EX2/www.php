@@ -29,13 +29,13 @@ if ($idade[0]<$idade[1]){
 
    
  $idadeve = ($idade[1])/2;
-  echo"<br> Diferença de idade: $idadeve";
+  echo"<br> metada da idade do mais velho : $idadeve";
   $idadef = $idadeve+$ano;
   echo"<br> Ano em que vai ter a metade da idade: $idadef";  
 
 }else{
     $idadeve = ($idade[0])/2;
-    echo"<br> Diferença de idade : $idadeve";
+    echo"<br> metada da idade do mais velho : $idadeve";
     $idadef = $idadeve+$ano2;
     echo"<br> Ano em que vai ter a metade da idade: $idadef";
 }
