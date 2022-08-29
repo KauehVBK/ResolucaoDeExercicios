@@ -5,7 +5,7 @@ Geral: os exercicios foram feitos com xampp para rodar o exercicio de logica dev
 
 EX1: 
 Primeiro erro: identifiquei na linha 7 a variável produto sendo escrita como produtos. <br>
-Segundo erro: na linha onde o código "$protuto = $produtos[1];" está o correto seria o produtos ter a variável $i dentro de sua array.<br>
+Segundo erro: na linha onde o código "$protuto = $produtos[1];" esta o correto seria o produtos ter a variável $i dentro de sua array.<br>
 Terceiro erro: na linha onde o for é iniciado ao invez de ser incrementado uma variável $i ele decrementada.
 
 EX2: 
